@@ -1,0 +1,11 @@
+C:\Users\Sameer Butt\Desktop\opp\simple calculator\simple calculator\bin\Debug\simple calculator.exe.config
+C:\Users\Sameer Butt\Desktop\opp\simple calculator\simple calculator\bin\Debug\simple calculator.exe
+C:\Users\Sameer Butt\Desktop\opp\simple calculator\simple calculator\bin\Debug\simple calculator.pdb
+C:\Users\Sameer Butt\Desktop\opp\simple calculator\simple calculator\obj\Debug\simple calculator.csproj.AssemblyReference.cache
+C:\Users\Sameer Butt\Desktop\opp\simple calculator\simple calculator\obj\Debug\simple calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sameer Butt\Desktop\opp\simple calculator\simple calculator\obj\Debug\simple_calculator.Form1.resources
+C:\Users\Sameer Butt\Desktop\opp\simple calculator\simple calculator\obj\Debug\simple_calculator.Properties.Resources.resources
+C:\Users\Sameer Butt\Desktop\opp\simple calculator\simple calculator\obj\Debug\simple calculator.csproj.GenerateResource.cache
+C:\Users\Sameer Butt\Desktop\opp\simple calculator\simple calculator\obj\Debug\simple calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sameer Butt\Desktop\opp\simple calculator\simple calculator\obj\Debug\simple calculator.exe
+C:\Users\Sameer Butt\Desktop\opp\simple calculator\simple calculator\obj\Debug\simple calculator.pdb
